@@ -32,4 +32,9 @@
 
 name = "田所浩二"
 age = 24
-print("我是%s，今年%d岁" % (name, age))
+# print("你好，我是%s，今年%d岁" % (name, age))
+
+# print(f"你好，我是{name}, 今年{age}岁")
+
+print("今年%d岁" % (1 + 1))
+print(f"你好，我是{1 + 1}岁的田所浩二")
